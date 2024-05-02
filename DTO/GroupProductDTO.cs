@@ -2,6 +2,6 @@
 {
     public class GroupProductDTO
     {
-
+        public string Name { get; set; }
     }
 }
